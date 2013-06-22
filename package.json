@@ -4,7 +4,7 @@
     "Franck Tab <franck.tab@gmail.com>",
     "Tomáš Holas <tomas.holas@gmail.com>"
   ],
-  "name": "mongoose-tree",
+  "name": "mongoose-tree2",
   "description": "Materialized path hierarchy for mongoose",
   "homepage": "https://github.com/franck34/mongoose-tree",
   "repository": {
