@@ -11,12 +11,12 @@ https://github.com/briankircho/mongoose-tree
 
 Install via NPM
 
-    $ npm install mongoose-tree
+    $ npm install mongoose-tree2
 
 Then you can use the plugin on your schemas
 
 ```javascript
-var tree = require('mongoose-tree');
+var tree = require('mongoose-tree2');
 
 var UserSchema = new Schema({
   name : String
