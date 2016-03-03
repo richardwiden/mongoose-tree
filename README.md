@@ -1,3 +1,5 @@
+## Do NOT use for now.
+
 ## mongoose-tree
 
 Implements the materialized path strategy for storing a hierarchy of documents with mongoose
