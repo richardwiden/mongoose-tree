@@ -1,5 +1,5 @@
 ## Do NOT use for now.
-It's only useful for static trees as of now since thath's all I need for the moment.
+It's only useful for static trees as of now since that's all I need for the moment.
 
 ## mongoose-tree
 
